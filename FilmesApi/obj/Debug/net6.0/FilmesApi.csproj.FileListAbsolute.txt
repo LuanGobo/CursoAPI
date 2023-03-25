@@ -1,0 +1,80 @@
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\appsettings.json
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\FilmesApi.exe
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\FilmesApi.deps.json
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\FilmesApi.runtimeconfig.json
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\FilmesApi.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\FilmesApi.pdb
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.AssemblyReference.cache
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfoInputs.cache
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfo.cs
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CoreCompileInputs.cache
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\scopedcss\bundle\FilmesApi.styles.css
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CopyComplete
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\refint\FilmesApi.dll
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
+C:\Users\luang\Downloads\dotnet-api-Aula-3\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.AssemblyReference.cache
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfoInputs.cache
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.AssemblyInfo.cs
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CoreCompileInputs.cache
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\refint\FilmesApi.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\appsettings.json
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\FilmesApi.exe
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\FilmesApi.deps.json
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\FilmesApi.runtimeconfig.json
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\FilmesApi.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\FilmesApi.pdb
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\AutoMapper.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Humanizer.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\MySqlConnector.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\scopedcss\bundle\FilmesApi.styles.css
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.csproj.CopyComplete
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\bin\Debug\net6.0\FilmesApi.xml
+D:\OneDrive - SPI Integracao de Sistemas Ltda\Projetos\༼ つ ◕_◕ ༽つ\FilmesAPI\FilmesApi\obj\Debug\net6.0\FilmesApi.xml
